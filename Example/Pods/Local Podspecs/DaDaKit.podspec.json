@@ -1,0 +1,22 @@
+{
+  "name": "DaDaKit",
+  "version": "0.1.0",
+  "summary": "A short description of DaDaKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/laidayuan/DaDaKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "laidayuan": "917958970@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/laidayuan/DaDaKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DaDaKit/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DaDaKit (0.1.0)
+
+DEPENDENCIES:
+  - DaDaKit (from `../`)
+
+EXTERNAL SOURCES:
+  DaDaKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DaDaKit: 264b497c9a3049fe226da5e9ea32c63e00476c1c
+
+PODFILE CHECKSUM: de1b542b16ac8d22fa7d5fb30f96510075cb6111
+
+COCOAPODS: 1.5.3

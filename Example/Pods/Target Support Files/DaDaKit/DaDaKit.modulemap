@@ -1,0 +1,6 @@
+framework module DaDaKit {
+  umbrella header "DaDaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
